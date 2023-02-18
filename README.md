@@ -1,5 +1,5 @@
 
-![Web Designer]https://media.licdn.com/dms/image/D4D16AQFDlaT3K_VhMw/profile-displaybackgroundimage-shrink_350_1400/0/1675691529020?e=1681948800&v=beta&t=2efj7oyEW3XGFwGOVUd-eacIXIPuo1veIPqAXe8w6f8
+![Web Designer]![image](https://user-images.githubusercontent.com/114427295/219838302-6a31492d-dd70-48a1-b4a2-6f4073884bff.png)
 
 
 ### Hi there 👋, I'm Nahid Hossain
