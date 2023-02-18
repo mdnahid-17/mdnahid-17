@@ -1,10 +1,8 @@
-
-![Web Designer]![image](https://user-images.githubusercontent.com/114427295/219838302-6a31492d-dd70-48a1-b4a2-6f4073884bff.png)
+![Web Designer](https://media.licdn.com/dms/image/D4D16AQFDlaT3K_VhMw/profile-displaybackgroundimage-shrink_350_1400/0/1675691529020?e=1681948800&v=beta&t=2efj7oyEW3XGFwGOVUd-eacIXIPuo1veIPqAXe8w6f8)
 
 
 ### Hi there 👋, I'm Nahid Hossain
 #### Web Designer
-
 
 I am a professional web designer. I have 2 years+ of experience in web designing.I am specialized in creating innovative and eye-catching websites with HTML, CSS, javascript, Bootstrap, Jquery. Do you need an awesome website for your portfolio? For your Company?Or a website for personal use?your dream we are work.
 
