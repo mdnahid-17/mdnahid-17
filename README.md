@@ -1,5 +1,5 @@
 
-![Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Designer](Screenshot_29 (2).png)
 
 
 ### Hi there 👋, I'm Nahid Hossain
