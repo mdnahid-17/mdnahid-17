@@ -1,5 +1,5 @@
 
-![Web Designer](Screenshot_29 (2).png)
+![Web Designer]https://media.licdn.com/dms/image/D4D16AQFDlaT3K_VhMw/profile-displaybackgroundimage-shrink_350_1400/0/1675691529020?e=1681948800&v=beta&t=2efj7oyEW3XGFwGOVUd-eacIXIPuo1veIPqAXe8w6f8
 
 
 ### Hi there 👋, I'm Nahid Hossain
