@@ -28,6 +28,6 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdnahid-17/mdnahid-17)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user)=[GitHub streak stats](https://github.com/mdnahid-17)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user)=(https://github.com/mdnahid-17)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/mdnahid-17/mdnahid-17)  
