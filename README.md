@@ -20,7 +20,7 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=)[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?"mdnahid")
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?"username")
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
