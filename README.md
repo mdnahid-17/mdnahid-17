@@ -28,7 +28,8 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 (https://github.com/mdnahid-17/github-readme-activity-graph)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=)![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdnahid-17/mdnahid-17)  
 
