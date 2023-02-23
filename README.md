@@ -24,7 +24,7 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username)[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdnahid-17)](https://github.com/mdnahid-17/github-readme-activity-graph)
+(https://activity-graph.herokuapp.com/graph?username)[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdnahid-17)](https://github.com/mdnahid-17/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdnahid-17/mdnahid-17)  
 
