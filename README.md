@@ -31,6 +31,6 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user) 
  -->
-![Profile views](https://komarev.com/ghpvc/?username=)
+![Profile views](https://komarev.com/ghpvc/?username=![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square))
 
 
