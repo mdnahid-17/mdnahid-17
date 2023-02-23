@@ -27,10 +27,10 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 ![GitHub Activity Graph(https://activity-graph.herokuapp.com/graph?mdnahid-17)[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdnahid-17)
 (https://github.com/mdnahid-17/github-readme-activity-graph)
 
+
+![Profile views](https://komarev.com/ghpvc/?username=![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 <!-- ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdnahid-17/mdnahid-17)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user) 
  -->
-![Profile views](https://komarev.com/ghpvc/?username=![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square))
-
-
