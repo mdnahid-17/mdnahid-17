@@ -30,4 +30,4 @@ Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user) 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/mdnahid-17)  
+![Profile views]![](https://komarev.com/ghpvc/?username=your-github-username)
