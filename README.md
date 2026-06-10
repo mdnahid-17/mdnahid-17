@@ -58,7 +58,7 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdnahid-17&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahid-17AME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahid-17&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
