@@ -109,15 +109,15 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/md-nahid-hossain-96a259264/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="[https://github.com/YOUR_USERNAME](https://github.com/mdnahid-17)">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO.com">
+<a href="[https://YOUR_PORTFOLIO.com](https://nahid-ai-craft.lovable.app/)">
 <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
 </a>
 </p>
