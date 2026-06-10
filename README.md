@@ -89,9 +89,11 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="![GitHub Contribution Snake](https://raw.githubusercontent.com/mdnahid-17/mdnahid-17/output/github-contribution-grid-snake.svg#1)"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdnahid-17/mdnahid-17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdnahid-17/mdnahid-17/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mdnahid-17/mdnahid-17/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
