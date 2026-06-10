@@ -1,36 +1,131 @@
+# Hi 👋, I'm Md Nahid
 
+<h3 align="center">
+Web Developer • AI Automation Engineer • AI Agent Developer
+</h3>
 
+<p align="center">
+Building AI-powered applications, intelligent agents, and workflow automation solutions.
+</p>
 
-### Hi there 👋, I'm Nahid Hossain
-#### Web Designer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Web+Developer;AI+Automation+Engineer;AI+Agent+Developer;Building+AI+Powered+Solutions;Next.js+%7C+n8n+%7C+OpenAI+%7C+Supabase" />
+</p>
 
-I am a professional web designer. I have 2 years+ of experience in web designing.I am specialized in creating innovative and eye-catching websites with HTML, CSS, javascript, Bootstrap, Jquery. Do you need an awesome website for your portfolio? For your Company?Or a website for personal use?your dream we are work.
+---
 
-Skills:  HTML / CSS / JS / JQUERY/ BOOTSTRAP / FIGMA / SASS
+## 🚀 About Me
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JS 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Design 
+* 🌐 Full Stack Web Developer
+* 🤖 AI Automation Engineer
+* 🧠 AI Agent Developer
+* ⚡ Workflow Automation Specialist
+* 🚀 Building SaaS Applications
+* 🔥 Passionate About AI & Emerging Technologies
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdnahid-17/mdnahid-17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-nahid-hossain-96a259264//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  
+## 🛠 Tech Stack
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+### Frontend
 
-![trophy (https://github-profile-trophy.vercel.app/?username=)][![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer)
 
-![Top Language(https://github-readme-stats.vercel.app/api/top-langs/?"username")][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+### Backend
 
-![GitHub stats (https://github-readme-stats.vercel.app/api?username)]!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
 
-![GitHub Activity Graph(https://activity-graph.herokuapp.com/graph?mdnahid-17)[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdnahid-17)
-(https://github.com/mdnahid-17/github-readme-activity-graph)
+### Database
 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
-![Profile views(https://komarev.com/ghpvc/?username=)![]](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+### AI & Automation
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/https://github.com/mdnahid-17/mdnahid-17)  
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n)
+![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-blue?style=for-the-badge\&logo=telegram)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user) 
- -->
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* AI Agents
+* LangGraph
+* MCP Servers
+* Multi-Agent Systems
+* RAG Applications
+* Advanced Workflow Automation
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+
+### 💡 Motto
+
+"Building intelligent solutions with AI and modern web technologies."
