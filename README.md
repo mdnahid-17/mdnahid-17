@@ -75,7 +75,7 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 
 <p align="center">
   <a href="https://github.com/mdnahid-17">
-    <img src="https://github-profile-trophy-nine-chi.vercel.app/?username=mdnahid-17&theme=onedark" alt="mdnahid-17" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mdnahid-17&theme=onedark" alt="mdnahid-17" />
   </a>
 </p>
 
