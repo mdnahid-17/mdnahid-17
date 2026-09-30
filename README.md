@@ -66,7 +66,8 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid-17&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdnahid-17&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnahid-17&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -74,7 +75,9 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="[![github trophy](https://github-profile-trophy-fork-two.vercel.app/?username=mdnahid-17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mdnahid-17&theme=onedark" alt="github trophy" />
+  </a>
 </p>
 
 ---
