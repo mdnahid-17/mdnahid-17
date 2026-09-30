@@ -9,7 +9,7 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0056B3&center=true&vCenter=true&width=700&lines=Web+Developer;AI+Automation+Engineer;AI+Agent+Developer;Building+AI+Powered+Solutions;Next.js+%7C+n8n+%7C+OpenAI+%7C+Supabase" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00CBF7&center=true&vCenter=true&width=700&lines=Web+Developer;AI+Automation+Engineer;AI+Agent+Developer;Building+AI+Powered+Solutions;Next.js+%7C+n8n+%7C+OpenAI+%7C+Supabase" />
 </p>
 
 
