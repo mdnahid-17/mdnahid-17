@@ -74,9 +74,7 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/mdnahid-17">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mdnahid-17&theme=onedark" alt="mdnahid-17" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnahid-17&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
 
