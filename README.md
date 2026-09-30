@@ -74,9 +74,8 @@ Building AI-powered applications, intelligent agents, and workflow automation so
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnahid-17&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnahid-17&theme=tokyonight" alt="GitHub Summary" />
 </p>
-
 ---
 
 ## 📊 Contribution Graph
