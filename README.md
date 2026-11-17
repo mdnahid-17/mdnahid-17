@@ -120,7 +120,7 @@ Building AI-powered applications, intelligent agents, and workflow automation so
   <a href="https://github.com/mdnahid-17" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
- <a href="https://nahid-ai-craft.lovable.app/" target="_blank">
+ <a href="https://nahid-portfolio.lovable.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge"/>
 </a>
 </p>
